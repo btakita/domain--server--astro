@@ -1,0 +1,17 @@
+{
+  "name": "@btakita/domin--server",
+  "module": "src/index.ts",
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "@ctx-core/function": "^21.20.1",
+    "@ctx-core/solid-nanostores": "^19.0.2",
+    "astro": "^3.2.4"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}
