@@ -1,6 +1,6 @@
 import { nullish__none_ } from '@ctx-core/function'
 import { val__be_computed_memo_tuple4_ } from '@ctx-core/solid-nanostores'
-import { Astro_ } from './Astro.ts'
+import { Astro_ } from './Astro'
 export const [
 	Astro__url$_,
 	Astro__url_,
