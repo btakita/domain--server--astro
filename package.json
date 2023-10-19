@@ -5,8 +5,8 @@
 	"version": "0.0.0",
 	"type": "module",
 	"dependencies": {
-		"@ctx-core/function": "^21.20.1",
-		"astro": "^3.3.1"
+		"@ctx-core/function": "^21.20.2",
+		"astro": "^3.3.2"
 	},
 	"devDependencies": {
 		"bun-types": "latest"
