@@ -1,17 +1,18 @@
 {
-	"name": "@btakita/domain--server",
-	"module": "src/index.ts",
-	"types": "src/index.ts",
-	"version": "0.0.0",
-	"type": "module",
-	"dependencies": {
-		"@ctx-core/function": "^21.20.2",
-		"astro": "^3.4.3"
-	},
-	"devDependencies": {
-		"bun-types": "latest"
-	},
-	"peerDependencies": {
-		"typescript": "^5.2.2"
-	}
+  "name": "@btakita/domain--server",
+  "module": "src/index.ts",
+  "types": "src/index.ts",
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "@ctx-core/function": "^21.20.2",
+    "@ctx-core/vanjs": "^1.6.1",
+    "astro": "^3.4.3"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.2.2"
+  }
 }
