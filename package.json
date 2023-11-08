@@ -6,7 +6,7 @@
   "type": "module",
   "dependencies": {
     "@ctx-core/function": "^21.20.2",
-    "@ctx-core/vanjs": "1.7.2",
+    "@ctx-core/vanjs": "2.1.0",
     "astro": "^3.4.3"
   },
   "devDependencies": {

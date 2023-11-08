@@ -1,6 +1,7 @@
 import { val__be_state_triple__new } from '@ctx-core/vanjs'
 import { type nullish } from '@ctx-core/function'
-import { type APIContext, type AstroGlobal } from 'astro'
+// @ts-ignore
+import type { APIContext, AstroGlobal } from 'astro'
 export const [
 	Astro$_,
 	Astro_,
