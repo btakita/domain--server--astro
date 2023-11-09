@@ -7,7 +7,7 @@
   "dependencies": {
     "@ctx-core/function": "^21.20.2",
     "@ctx-core/vanjs": "2.1.2",
-    "astro": "^3.4.3"
+    "astro": "^3.4.4"
   },
   "devDependencies": {
     "bun-types": "latest"
