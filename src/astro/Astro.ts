@@ -1,10 +1,11 @@
-import { val__be_state_triple__new } from '@ctx-core/vanjs'
-import { type nullish } from '@ctx-core/function'
+import { type nullish } from 'ctx-core/function'
 // @ts-ignore
 import type { APIContext, AstroGlobal } from 'astro'
+import { be_sig_triple_ } from 'rmemo'
 export const [
 	Astro$_,
 	Astro_,
 	Astro__set,
-] = val__be_state_triple__new<APIContext|AstroGlobal|nullish>('Astro', ()=>
-	undefined)
+] = be_sig_triple_<APIContext|AstroGlobal|nullish>(()=>
+		undefined,
+	{ id: 'Astro' })
