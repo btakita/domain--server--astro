@@ -6,8 +6,8 @@
 	"type": "module",
 	"dependencies": {
 		"astro": "^3.6.4",
-		"ctx-core": "^4.8.1",
-		"rmemo": "^0.11.1"
+		"ctx-core": "^4.8.2",
+		"rmemo": "^0.11.2"
 	},
 	"devDependencies": {
 		"bun-types": "latest"
