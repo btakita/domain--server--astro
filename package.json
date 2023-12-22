@@ -5,9 +5,9 @@
 	"version": "0.0.0",
 	"type": "module",
 	"dependencies": {
-		"astro": "^4.0.5",
-		"ctx-core": "^4.19.0",
-		"rmemo": "^0.17.2"
+		"astro": "^4.0.7",
+		"ctx-core": "^5.4.1",
+		"rmemo": "^0.19.8"
 	},
 	"devDependencies": {
 		"bun-types": "latest"
