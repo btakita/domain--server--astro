@@ -5,6 +5,6 @@ export const [
 	Astro__url$_,
 	Astro__url_,
 ] = be_memo_pair_(ctx=>
-		nullish__none_([Astro_(ctx)], Astro=>
+	nullish__none_([Astro_(ctx)], Astro=>
 			Astro!.url),
-	{ id: 'Astro__url' })
+{ id: 'Astro__url' })

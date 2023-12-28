@@ -5,6 +5,6 @@ export const [
 	Astro__props$_,
 	Astro__props_,
 ] = be_memo_pair_(ctx=>
-		nullish__none_([Astro_(ctx)], Astro=>
+	nullish__none_([Astro_(ctx)], Astro=>
 			Astro!.props),
-	{ id: 'Astro__props' })
+{ id: 'Astro__props' })
