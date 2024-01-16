@@ -6,8 +6,8 @@
 	"types": "src/index.ts",
 	"dependencies": {
 		"astro": "^4.1.2",
-		"ctx-core": "^5.18.9",
-		"rmemo": "^0.31.8"
+		"ctx-core": "^5.19.0",
+		"rmemo": "^0.31.9"
 	},
 	"devDependencies": {
 		"bun-types": "latest"
