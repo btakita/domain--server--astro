@@ -1,3 +1,3 @@
-# domain--server
+# domain--server--astro
 
-domain library targeting the server
+domain library targeting the server for Astrojs

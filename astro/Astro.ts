@@ -1,4 +1,4 @@
-import type { APIContext, AstroGlobal } from 'astro'
+import type { APIContext, AstroGlobal } from 'astro/index.ts'
 import { type nullish } from 'ctx-core/function'
 import { be_sig_triple_ } from 'rmemo'
 export const [
